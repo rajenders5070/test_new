@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Browse\\Test3": "src/"
+            "Browse": "src/"
         }
     },
     "minimum-stability": "stable"
