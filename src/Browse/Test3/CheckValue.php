@@ -1,5 +1,4 @@
-<?php 
-namespace Browse\Check;
+<?php namespace Browse\Test3;
 
 class CheckValue {
 
