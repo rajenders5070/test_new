@@ -1,6 +1,6 @@
 <?php namespace Browse\Test3;
 
-use Browse\checkValue;
+use Browse\check\checkValue;
 
 class Test3ServiceProvider {
 
